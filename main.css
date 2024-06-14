@@ -1,0 +1,25 @@
+h1 {
+    color: red;
+    text-align: center;
+    border-style: solid;
+}
+
+body {
+    background-image: url("https://wallpapers.com/images/hd/zen-black-flat-stones-hfa1x18df5m2qfyp.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.squares {
+    margin: auto;
+    width: 245px;
+    height: 245px;
+    align-items: center;
+    border: 2px solid red;
+    float: center;
+}
+
+.grid {
+    height: 20px;
+    width: 20px;
+  }
